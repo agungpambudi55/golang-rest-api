@@ -5,10 +5,14 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/victorsteven/fullstack/api/auth"
-	"github.com/victorsteven/fullstack/api/models"
-	"github.com/victorsteven/fullstack/api/responses"
-	"github.com/victorsteven/fullstack/api/utils/formaterror"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/auth"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/models"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/responses"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/utils/formaterror"
+	"CRUD-RESTful-API/fullstack/api/auth"
+	"CRUD-RESTful-API/fullstack/api/models"
+	"CRUD-RESTful-API/fullstack/api/responses"
+	"CRUD-RESTful-API/fullstack/api/utils/formaterror"
 	"golang.org/x/crypto/bcrypt"
 )
 

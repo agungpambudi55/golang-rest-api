@@ -18,4 +18,3 @@ Go memiliki kelebihan dibanding bahasa lainnya, beberapa di antaranya:
 - Tour : https://tour.golang.org
 - Package : https://pkg.go.dev
 - E-Book : https://dasarpemrogramangolang.novalagung.com
-- Exemple CRUD : https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121
