@@ -6,10 +6,10 @@ import (
 	"os"
 
 	"github.com/joho/godotenv"
-	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/controllers"
-	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/seed"
-	"CRUD-RESTful-API/fullstack/api/controllers"
-	"CRUD-RESTful-API/fullstack/api/seed"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/api/controllers"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/api/seed"
+	"CRUD-RESTful-API/api/controllers"
+	"CRUD-RESTful-API/api/seed"
 )
 
 var server = controllers.Server{}

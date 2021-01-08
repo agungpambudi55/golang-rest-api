@@ -11,8 +11,8 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/mysql"    //mysql database driver
 	_ "github.com/jinzhu/gorm/dialects/postgres" //postgres database driver
 
-	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/models"
-	"CRUD-RESTful-API/fullstack/api/models"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/api/models"
+	"CRUD-RESTful-API/api/models"
 )
 
 type Server struct {

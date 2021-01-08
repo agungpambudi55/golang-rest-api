@@ -4,8 +4,8 @@ import (
 	"log"
 
 	"github.com/jinzhu/gorm"
-	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/models"
-	"CRUD-RESTful-API/fullstack/api/models"
+	// "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/api/models"
+	"CRUD-RESTful-API/api/models"
 )
 
 var users = []models.User{

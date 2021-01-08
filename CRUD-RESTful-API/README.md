@@ -5,13 +5,13 @@ Creates a new module, initializing the go.mod file that describes it.
 > go mod init CRUD-RESTful-API
 ```
 // example import
-import "CRUD-RESTful-API/fullstack/api"
+import "CRUD-RESTful-API/api"
 ```
 or
 > go mod init github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API
 ```
 // example import
-import "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api"
+import "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/api"
 ```
 
 ## run program

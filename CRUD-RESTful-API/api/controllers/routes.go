@@ -1,7 +1,7 @@
 package controllers
 
-// import "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/fullstack/api/middlewares"
-import "CRUD-RESTful-API/fullstack/api/middlewares"
+// import "github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API/api/middlewares"
+import "CRUD-RESTful-API/api/middlewares"
 
 func (s *Server) initializeRoutes() {
 
