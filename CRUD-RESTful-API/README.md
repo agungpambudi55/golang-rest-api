@@ -1,5 +1,12 @@
-
 # CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing
+## Built with
+- Go
+- GORM (A Golang ORM)
+- JWT
+- Postgres
+- Mysql
+- Gorilla Mux (For HTTP routing and URL matcher)
+
 ## go mod init
 Creates a new module, initializing the go.mod file that describes it.
 > go mod init CRUD-RESTful-API
