@@ -11,6 +11,10 @@ Go memiliki kelebihan dibanding bahasa lainnya, beberapa di antaranya:
 - Bukan bahasa pemrograman yang hirarkial, menjadikan developer tidak perlu ribet memikirkan segmen OOP-nya
 - Package/modul yang disediakan terbilang lengkap. Karena bahasa ini open source, banyak sekali developer yang juga mengembangkan modul-modul lain yang bisa dimanfaatkan
 
+## Practice
+CRUD RESTful API with Go, GORM, JWT, Postgres, Mysql, and Testing
+https://github.com/agungpambudi55/Learn-Golang/tree/master/CRUD-RESTful-API
+
 ## Link
 - Golang : https://golang.org
 - Install : https://golang.org/doc/install
